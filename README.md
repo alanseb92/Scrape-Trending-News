@@ -1,0 +1,1 @@
+Most of the datasets that you find from different data sources on the internet are created by collecting data from websites. Using the GoogleNews API in Python, we can scrape trending updates based on any keyword or country.
